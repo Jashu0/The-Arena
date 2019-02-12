@@ -1,0 +1,53 @@
+#File/Character Name
+#Password
+#Boon
+#Bane
+#Level
+#HP
+#Strength
+#Magic
+#Skill
+#Speed
+#Luck
+#Defence
+#Resistance
+#HP Growth
+#Strength Growth
+#Magic Growth
+#Skill Growth
+#Speed Growth
+#Luck Growth
+#Defence Growth
+#Resistance Growth
+#Gold
+#EXP
+#Sword Rank
+#Lance Rank
+#Axe Rank
+#Bow Rank
+#Dagger Rank
+#Fire Rank
+#Thunder Rank
+#Wind Rank
+#Light Rank
+#Dark Rank
+#Equipped Weapon Name
+#Equipped Weapon Rank
+#Equipped Weapon Mt
+#Equipped Weapon Weight
+#Equipped Weapon Hit
+#Equipped Weapon Crit
+#Equipped Weapon Price
+#Equipped Weapon EXP exonent
+#Equipped Weapon Type
+#Equipped Weapon Skill
+#Attack
+#Attack Speed
+#Hit Rate
+#Critial Rate
+#Avoid
+#Number of Slim Swords
+#Number of Bronze Swords
+#Number of Iron Swords
+#Number of Steel Swords
+#Number of Silver Swords
